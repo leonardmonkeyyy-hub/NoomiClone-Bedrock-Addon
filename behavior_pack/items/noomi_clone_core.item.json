@@ -1,0 +1,17 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "noomi:clone_core",
+      "category": "Misc",
+      "is_experimental": false,
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "textures/items/clone_core",
+      "minecraft:display_name": "Clone Core",
+      "minecraft:creative_category": { "category": "items", "group": "misc" },
+      "minecraft:spawn_egg": { "entity": "noomi:clone" }
+    }
+  }
+}

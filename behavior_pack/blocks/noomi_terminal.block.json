@@ -1,0 +1,16 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "noomi:terminal",
+      "is_experimental": false,
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:destroy_time": 2.0,
+      "minecraft:explosion_resistance": 6.0,
+      "minecraft:map_color": "#4a8bff",
+      "minecraft:loot": "loot_tables/noomi/terminal"
+    }
+  }
+}

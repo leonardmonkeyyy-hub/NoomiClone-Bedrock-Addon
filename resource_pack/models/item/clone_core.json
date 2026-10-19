@@ -1,0 +1,11 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "noomi:clone_core",
+      "materials": { "default": "item" },
+      "textures": { "0": "textures/items/clone_core" }
+    },
+    "components": {}
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "format_version": "1.12",
+  "minecraft:block": {
+    "description": {
+      "identifier": "noomi:terminal",
+      "materials": { "default": "stone" },
+      "textures": { "all": "textures/blocks/noomi_terminal" }
+    }
+  }
+}
